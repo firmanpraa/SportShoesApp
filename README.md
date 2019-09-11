@@ -3,8 +3,8 @@
 # Adidas Sport Shoes App ( Tugas 3 - OSG05 )
 Adidas Sport Shoes App, menampilkan berbagai sepatu olahraga dari brand Adidas terbaru. 
 
-### Screenshot
-![Flutter Apps](https://youtu.be/_WFFUExh7Yw)
+### Screen Recorder
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_WFFUExh7Yw)
 
 ### Built With
 - [Flutter](https://flutter.dev)
