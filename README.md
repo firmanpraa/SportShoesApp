@@ -1,17 +1,40 @@
-# flutter_app_eudeka_tugas03
 
-A new Flutter application.
 
-## Getting Started
+# Adidas Sport Shoes App ( Tugas 3 - OSG05 )
+Adidas Sport Shoes App, menampilkan berbagai sepatu olahraga dari brand Adidas terbaru. 
 
-This project is a starting point for a Flutter application.
+### Screenshot
+![Flutter Apps](https://youtu.be/_WFFUExh7Yw)
 
-A few resources to get you started if this is your first Flutter project:
+### Built With
+- [Flutter](https://flutter.dev)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Created By
+- [Firman Praadita](https://github.com/firmanpraa)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# SportShoesApp
+---
+
+## Info Lebih Lengkap
+Website : [www.eudeka.id](https://www.eudeka.id).
+Twitter: [@EudekaID](https://twitter.com/EudekaID).
+Telegram : [@eudekainfo](https://t.me/eudekainfo).
+Instagram : [@eudeka.id](https://instagram.com/eudeka.id).
+WhatsApp : [0895351577557](https://wa.me/62895351577557).
+Email : [info@eudeka.id](mailto:info@eudeka.id).
+
+[nama_project]: Peserta
+[tentang_project]: Peserta
+[screenshot_project]: Peserta
+[teknologi_digunakan]: Peserta
+[nama_peserta]: Peserta
+
+[kode_tugas]: Eudeka
+[jenis_kelas]: Eudeka
+[nama_kelas]: Eudeka
+[tentang_kelas]: Eudeka
+[waktu_kelas]: Eudeka
+[tujuan_kelas]: Eudeka
+[cara_daftar]: Eudeka
+[kode_kelas]: Eudeka
+
+###### tags: `Templates` `Eudeka`
